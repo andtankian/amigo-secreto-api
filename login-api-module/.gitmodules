@@ -1,0 +1,3 @@
+[submodule "users-api-module"]
+	path = users-api-module
+	url = https://github.com/redwallsolutions/users-api-module.git
