@@ -42,7 +42,7 @@
         <dependency>
             <artifactId>hibernate-core</artifactId>
             <groupId>org.hibernate</groupId>
-            <version>5.3.7.Final</version>
+            <version>5.3.20.Final</version>
             <scope>test</scope>
         </dependency>
         <dependency>
